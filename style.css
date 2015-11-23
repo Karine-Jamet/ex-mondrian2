@@ -1,0 +1,33 @@
+.grey{
+  background-color: grey;
+  height:50px;
+  border-left: 5px solid black;
+}
+.white{
+  background-color: white;
+  height:50px;
+  border-left: 5px solid black;
+}
+.yellow{
+  background-color: yellow;
+  height:50px;
+  border-left: 5px solid black;
+}
+.blue{
+  background-color: blue;
+  height:50px;
+  border-left: 5px solid black;
+}
+.red{
+  background-color: red;
+  height:50px;
+  border-left: 5px solid black;
+}
+.row{
+  height:50px;
+
+}
+.bord-bottom{
+  border-bottom: 5px solid black;
+
+}
